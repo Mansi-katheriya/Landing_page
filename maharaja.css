@@ -1,0 +1,40 @@
+.box2
+{
+ 
+}
+ul li
+{
+ display:inline;
+ padding:10px;
+ margin-right:20px;
+ float:left;
+ list-style: none;
+}
+
+
+.i1
+{   height:10%;
+   
+	position:absolute;
+     left:10%;
+  	top:60%;
+	
+}
+.i2
+{
+   height:26%;
+   width:3%;
+   color:white;
+   background-color:black;
+   border:1px groove;
+   text-align:center;
+   writing-mode:vertical-rl;
+   padding:10px;
+   letter-spacing:9px;
+    position:fixed;
+     top:60%;
+     left:96%;
+    cursor:pointer;
+}
+
+
